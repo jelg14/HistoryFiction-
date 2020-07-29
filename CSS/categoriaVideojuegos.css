@@ -1,0 +1,19 @@
+#titulo {
+    width: 40%;
+    height: 10%;
+}
+
+img{
+    width: 15%;
+    height:15%;
+}
+
+body{
+    background-color: black;
+
+}
+
+p{
+    color: white;
+    font: oblique bold 250% cursive;
+}

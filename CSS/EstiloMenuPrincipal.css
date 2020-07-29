@@ -1,0 +1,50 @@
+
+#TituloPrincial {
+    color:black;
+    font-size: 500%;
+    background-color: red;
+    background-position :0px 90px; 
+    font-style: bold;
+    margin: -2.5% 0;
+
+}
+
+#presentacion{
+    color: white;
+    background-color: black;
+    font: oblique bold 150% cursive;
+    background-position :0px 90px; 
+
+}
+body{
+    background-image: url('../Images/fondoMenuPrincipal2.jpg');
+    background-repeat: no-repeat;
+}
+#parrafoInicio{
+    background-color: black;
+    text-align: right;
+    color: white;
+    font: oblique bold 150% cursive;
+    background-image:url();
+}
+
+a.enlace{
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+}
+
+img.boton{
+    width: 40%;
+    height: 60%;
+    margin: 1%;
+}
+
+img.boton:hover{
+    transform: scale(1.2);
+}
+
+#imagen1{
+    float: left;
+    margin: -1.80%;
+}

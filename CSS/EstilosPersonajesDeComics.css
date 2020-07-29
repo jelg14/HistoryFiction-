@@ -1,0 +1,31 @@
+h1{
+    background-color: red;
+    color: black;
+    margin: -0.2cm -0.2cm;
+    font: bold 250% cursive;
+}
+
+h2{
+    background-color:gray;
+    color:black;
+    margin: -0.2cm -0.2cm;
+    font: bold 250% cursive;
+}
+
+ul{
+    color: cyan;
+}
+
+body{
+    background-color: black;
+}
+
+p{
+    font: outline;
+    color: cyan;
+}
+
+#bordeInferior{
+    float: left;
+    margin: 0cm -0.2cm;
+}
